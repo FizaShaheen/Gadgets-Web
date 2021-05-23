@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mother-div{
+    display: flex;
+    margin-top: 3%;
+}
+.first{
+    width: 80vh;
+    padding-left:10% ;
+}
+.second{
+    width: 20vh;
+}
+.third{
+    width: 20vh;
+}
+.fourth{
+    width: 80vh;
+}
+.fifth{ 
+    width: 10vh;
+}
+.sixth{
+    width: 10vh;
+    padding-right:10% ;
+}
