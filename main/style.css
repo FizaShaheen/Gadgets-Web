@@ -159,19 +159,18 @@
     padding-right: 10vh;
 }
 .button {
+    padding: 10px;
+    margin-top: 20px;
     width: 80px;
-    padding: 2.8vh;
-    margin-top: 2.8vh;
     margin-left: 30vh;
     font-size: 1rem;
-    border-radius: 15px;
     background-color: black;
     color: white;
     box-shadow: 0 0 10px black;
+    border-radius: 10px;
     transition: all 0.5s;
   }
-  
-  .button:hover {
+.button:hover {
     cursor: pointer;
     background-color: slateblue;
   }
@@ -234,7 +233,7 @@
   }
   
   .besnik-1 h2 {
-    padding-top: 10px;
+    padding-top: 15vh;
     /* line-height: 15px; */
   }
   
@@ -254,7 +253,7 @@
   }
   
   .support {
-    padding-top: 10px;
+    padding-top: 1vh;
   }
   
   .support ul li {
