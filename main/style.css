@@ -1,14 +1,18 @@
+
 *{
     margin: 0;
     padding: 0;
 }
+
 .mother-div{
     display: flex;
-    margin-top: 3%;
+    margin-top: 2.5%;
+    font-size: large;
+    font-family: 'Ubuntu', sans-serif;
 }
 .first{
     width: 80vh;
-    padding-left:10% ;
+    padding-left:7% ;
 }
 .second{
     width: 20vh;
@@ -17,12 +21,12 @@
     width: 20vh;
 }
 .fourth{
-    width: 80vh;
+    width: 70vh;
 }
 .fifth{ 
-    width: 10vh;
+    width: 15vh;
 }
 .sixth{
     width: 10vh;
-    padding-right:10% ;
+    padding-right:2% ;
 }
